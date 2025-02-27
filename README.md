@@ -32,7 +32,7 @@ Evaluation Criteria:
 
 Candidates will be evaluated based on their proficiency in using raw PHP, handling JSON data, implementing input validations, and, if applicable, establishing communication with a database.
 
-##How To Use:
+## How To Use:
 
 - Run review_sql.sql
 - In review.php update database credentials
